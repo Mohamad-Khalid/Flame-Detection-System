@@ -25,8 +25,13 @@ When the system is powered on, the green LED will be active. When a fire is dete
  ### For full demo , watch this [video](https://youtu.be/TyZOeJfv-ss).  
  <br>
  
+ <div> 
  <img src="https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo1.jpg" width="300" height="300">
  <img src="https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo2.jpg" width="300" height="300">
-
+ <img src="https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/demo3.jpg" width="300" height="300">
+ 
+ </div>
+ 
+ 
 
 
