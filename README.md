@@ -22,7 +22,11 @@ The following software is required for this project:
 When the system is powered on, the green LED will be active. When a fire is detected by the flame sensor, the green LED will turn off and the red LED and buzzer will turn on. This indicates that a fire has been detected.
 
  ## Demo
- ### For full demo , watch this [video](https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Flame_detection_system.mp4)
- ![demo1](https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo1.jpg)
-  ![demo2](https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo2.jpg)
+ ### For full demo , watch this [video](https://youtu.be/TyZOeJfv-ss).  
+ <br>
+ 
+ <img src="https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo1.jpg" width="300" height="300">
+ <img src="https://github.com/Mohamad-Khalid/Flame-Detection-System/blob/main/Demoes/Demo2.jpg" width="300" height="300">
+
+
 
